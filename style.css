@@ -1,0 +1,33 @@
+
+.calculator {
+    width: 200px;
+    margin: 100px auto;
+    border: 5px solid white;
+    padding: 55px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(36, 123, 149, 0.8999);
+  }
+  
+  .display {
+    width: 95%;
+    margin-bottom: 10px;
+    padding:9px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+  }
+  
+  .buttons button {
+    width: 55px;
+    height: 55px;
+    margin: 2px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+
+  
+ body{
+background-image:url(./assets/calculos.jpg)
+ }
